@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="longestSubstring.cpp" />
     <ClCompile Include="MaxWater.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
